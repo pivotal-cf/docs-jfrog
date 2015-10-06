@@ -1,16 +1,16 @@
 ---
-title: GitLab
+title: JFrog Artifactory
 ---
 
-This is documentation for the [GitLab service for Pivotal Cloud Foundry](https://network.pivotal.io/products/gitlab).
+This is documentation for the [JFrog Artifactory service for Pivotal Cloud Foundry](https://network.pivotal.io/products/p-jfrog-artifactory).
 
 ## Product snapshot
 
 <dl>
-<dt>Current GitLab for PCF Details</dt>
-<dd><strong>Version</strong>: 0.1.0 </dd>
-<dd><strong>Release Date</strong>: xx September 2015</dd>
-<dd><strong>Software component version</strong>: GitLab Enterprise x.x</dd>
+<dt>Current JFrog Artifactory for PCF Details</dt>
+<dd><strong>Version</strong>: 0.5.8 BETA </dd>
+<dd><strong>Release Date</strong>: 30th September 2015</dd>
+<dd><strong>Software component version</strong>: JFrog Enterprise x.x</dd>
 <dd><strong>Compatible Ops Manager Version(s)</strong>: 1.5.x, 1.4.x</dd>
 <dd><strong>Compatible Elastic Runtime Version(s)</strong>: 1.5.x, 1.4.x</dd>
 <dd><strong>vSphere support?</strong> Yes</dd>
@@ -20,7 +20,7 @@ This is documentation for the [GitLab service for Pivotal Cloud Foundry](https:/
 
 ## Upgrading to the Latest Version
 
-Consider the following compatibility information before upgrading GitLab for Pivotal Cloud Foundry.
+Consider the following compatibility information before upgrading JFrog Artifactory for Pivotal Cloud Foundry.
 
 <table border="1" class="nice">
 <tr>
@@ -30,7 +30,7 @@ Consider the following compatibility information before upgrading GitLab for Piv
 <tr>
   <th>1.5.x and 1.4.x</th>
   <td><ul>
-      <li>From 0.1.x to 0.1.x</li>
+      <li>From 0.5.8 to 0.x.x</li>
     </ul>
   </td>
 </tr>
@@ -38,7 +38,7 @@ Consider the following compatibility information before upgrading GitLab for Piv
 
 ## Install via Pivotal Operations Manager
 
-To install GitLab for PCF, follow the procedure for installing Pivotal Ops Manager tiles:
+To install JFrog Artifactory for PCF, follow the procedure for installing Pivotal Ops Manager tiles:
 
 1. Download the product file from [Pivotal Network](https://network.pivotal.io/).
 1. Upload the product file to your Ops Manager installation.
@@ -49,8 +49,7 @@ To install GitLab for PCF, follow the procedure for installing Pivotal Ops Manag
 ## Security
 The following ports & ranges are used in this service:
 
-* Destination port 80 access to the GitLab VMs from the PCF Router
-* Destination port 22 access to the GitLab VMs from outside of the PCF Network
+* Destination port 80 access to the JFrog VMs from the PCF Router
 * Destination port xx for NFS access
 
 ## Feedback
@@ -59,4 +58,4 @@ Please provide any bugs, feature requests, or questions to [the Pivotal Cloud Fo
 
 ## Further Reading
 
-* [Official GitLab Documentation](http://doc.gitlab.com/ee/)
+* [Official JFrog Artifactory Documentation](https://www.jfrog.com/confluence/display/RTF/Welcome+to+Artifactory)
