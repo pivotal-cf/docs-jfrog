@@ -10,6 +10,7 @@ Release notes for [JFrog Artifactory for Pivotal Cloud Foundry](https://network.
 Features included in this release:
 
 * Updated public beta release
+* Updated to JFrog Artifactory 4.1.3
 * Ability to configure an external NFS server
 * Requires stemcell 3062
 
