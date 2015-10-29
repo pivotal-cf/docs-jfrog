@@ -6,7 +6,7 @@ title: JFrog Artifactory
 
 The following properties can be configured for the JFrog Artifactory tile
 
-## MySQL
+##<a id='mysql'></a> MySQL
 
 The product requires an external MySQL database in order to hold its state.
 
@@ -28,20 +28,20 @@ If the database does not exist it will be created upon installation. All databas
 
 ![Image of OpsManager JFrog MySQL Configuration](mysql.jpeg)
 
-## Licence
+##<a id='license'></a> License
 
-You are required to enter a licence for each of the two nodes in this Highly Available setup.
-The licences are mandatory and you cannot deploy the tile without them.
+You are required to enter a license for each of the two nodes in this Highly Available setup.
+The licenses are mandatory and you cannot deploy the tile without them.
 
 The required fields to be populated are:
 
-* Primary node licence
-* Secondary node licence
+* Primary node license
+* Secondary node license
 * Cluster security token - This is an ASCII string token, it can be anything of your choosing
 
-![Image of OpsManager JFrog Licence Configuration](licence.jpeg)
+![Image of OpsManager JFrog License Configuration](licence.jpeg)
 
-## NFS
+##<a id='nfs'></a> NFS
 The product comes with a built in single node NFS server which will be used as default.
 
 This provides an easy way to get started with the product. The size of the persistent disk can be scaled as you required based on the number of repositories you are hosting.
