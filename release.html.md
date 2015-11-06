@@ -2,7 +2,7 @@
 title: JFrog Artifactory
 ---
 
-Release notes for [JFrog Artifactory for Pivotal Cloud Foundry](https://network.pivotal.io/products/p-jfrog-artifactory)
+Release notes for [JFrog Artifactory for Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/p-jfrog-artifactory)
 
 ### 0.6.1
 **Release Date: 18th October 2015**

@@ -2,7 +2,7 @@
 title: JFrog Artifactory
 ---
 
-# Resource requirements for JFrog Artifactory for PCF
+# Resource requirements for JFrog Artifactory for Pivotal Cloud Foundry&reg;
 These are the default resource and IP requirements for installing the tile
 <table border="1" class="nice">
 	<tr>

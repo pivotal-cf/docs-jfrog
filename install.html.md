@@ -4,7 +4,7 @@ title: JFrog Artifactory
 
 ## Installation
 
-To install JFrog Artifactory for PCF, follow the procedure for installing Pivotal Ops Manager tiles:
+To install JFrog Artifactory for [Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/pivotal-cf) (PCF), follow the procedure for installing Pivotal Ops Manager tiles:
 
 1. Download the product file from [Pivotal Network](https://network.pivotal.io/products/p-jfrog-artifactory).
 1. Upload the product file to your Ops Manager installation.
