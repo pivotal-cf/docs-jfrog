@@ -30,7 +30,8 @@ If the database does not exist it will be created upon installation. All databas
 
 ##<a id='license'></a> License
 
-You are required to enter a license for each of the two nodes in this Highly Available setup.
+You are required to enter a license for each of the two nodes in this Highly Available setup. A JFrog Artifactory Enterprise edition license is required for this product.
+
 The licenses are mandatory and you cannot deploy the tile without them.
 
 The required fields to be populated are:

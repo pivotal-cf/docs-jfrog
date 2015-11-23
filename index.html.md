@@ -48,6 +48,8 @@ To install JFrog Artifactory for Pivotal Cloud Foundry&reg;, follow the procedur
 
 ## Licensing
 
+The product is based upon the JFrog Artifactory Enterprise edition, so a license specifically for this version of the product is required. 
+
 A trial licence for the product can be obtained [here](https://www.jfrog.com/artifactory/free-trial/)
 
 Alternatively you can upload an existing licence or [buy directly from JFrog](https://www.jfrog.com/artifactory/buy-now/)
