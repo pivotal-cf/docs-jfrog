@@ -8,9 +8,9 @@ This is documentation for the [JFrog Artifactory service for Pivotal Cloud Found
 
 <dl>
 <dt>Current JFrog Artifactory for PCF Details</dt>
-<dd><strong>Version</strong>: 0.6.1 BETA </dd>
-<dd><strong>Release Date</strong>: 18th October 2015</dd>
-<dd><strong>Software component version</strong>: JFrog Enterprise 4.1.3</dd>
+<dd><strong>Version</strong>: 1.0.1 </dd>
+<dd><strong>Release Date</strong>: 19th January 2016</dd>
+<dd><strong>Software component version</strong>: JFrog Enterprise 4.4.2</dd>
 <dd><strong>Compatible Ops Manager Version(s)</strong>: 1.6.x, 1.5.x, 1.4.x</dd>
 <dd><strong>Compatible Elastic Runtime Version(s)</strong>: 1.6.x, 1.5.x, 1.4.x</dd>
 <dd><strong>vSphere support?</strong> Yes</dd>
@@ -30,7 +30,10 @@ Consider the following compatibility information before upgrading JFrog Artifact
 <tr>
   <th>1.6.x, 1.5.x and 1.4.x</th>
   <td><ul>
-      <li>From 0.5.8 to 0.6.1</li>
+      <li>From 0.5.8  to 1.0.1</li>
+      <li>From 0.6.1  to 1.0.1</li>
+      <li>From 0.6.8  to 1.0.1</li>
+      <li>From 0.6.10 to 1.0.1</li>
     </ul>
   </td>
 </tr>
