@@ -24,6 +24,16 @@ The required fields to be populated are:
 * DB password
 * Database name
 
+The database scheme must be created prior to the first installation as per the directions found [on the JFrog wiki for setting up mySQL](https://www.jfrog.com/confluence/display/RTF/MySQL)
+
+Typically the script looks like this:
+```
+CREATE USER artifactory IDENTIFIED BY 'password';
+CREATE DATABASE artdb_cf CHARACTER SET utf8;
+GRANT ALL on artdb_cf.* TO 'artifactory'@'%' IDENTIFIED BY 'password';
+FLUSH PRIVILEGES;
+```
+
 If the database does not exist it will be created upon installation. All database migrations are performed automatically during upgrades of the tile.
 
 ![Image of OpsManager JFrog MySQL Configuration](mysql.jpeg)
@@ -52,6 +62,8 @@ This is a single node NFS server, so it is a single point of failure in the stac
 ### Using an external NFS server
 You may wish to use an external NFS server instead of the built in product.
 This may be because you have an external solution which is Highly Available or wish to use a hardware product instead of software.
+If using an external NFS server you should go to the 'Resource Config' tab and set the number of NFS servers to 0.
+Note that to use an external NFS, it may require no-root-squash be enabled to function correctly.
 
 The required fields to be populated are:
 * Hostname - can be an IP address or hostname
