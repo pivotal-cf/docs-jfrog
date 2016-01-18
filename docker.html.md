@@ -16,7 +16,7 @@ Two URLs are registered to access to the Docker Registry:
 At the moment these route names are not configurable. 
 
 Currently each route goes to a docker-v1 repository and a virtual repository for v2
-For artifactory-docker-dev it points at: docker-dev-local v1 docker local repository and the docker-dev v2 docker virtual repository.
+For artifactory-docker-dev it points at: [b]docker-dev-local[/b] v1 docker local repository and the docker-dev v2 docker virtual repository.
 For artifactory-docker-prod it points at: docker-prod-local v1 docker local repository and the docker-prod v2 docker virtual repository.
 
 Important Note: if you want to use a new docker client (greater than 1.6) to push docker v1 images for use with v1 tools such as diego or cf push the only way to do this is disable the virtual repository for the end point.  So if for example I want to use a new docker client to push to docker-dev-local, I should delete the docker-dev virtual repository.
