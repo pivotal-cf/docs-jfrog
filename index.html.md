@@ -9,7 +9,7 @@ This is documentation for the [JFrog Artifactory service for Pivotal Cloud Found
 <dl>
 <dt>Current JFrog Artifactory for PCF Details</dt>
 <dd><strong>Version</strong>: 1.0.1 </dd>
-<dd><strong>Release Date</strong>: 19th January 2016</dd>
+<dd><strong>Release Date</strong>: 20th January 2016</dd>
 <dd><strong>Software component version</strong>: JFrog Enterprise 4.4.2</dd>
 <dd><strong>Compatible Ops Manager Version(s)</strong>: 1.6.x, 1.5.x, 1.4.x</dd>
 <dd><strong>Compatible Elastic Runtime Version(s)</strong>: 1.6.x, 1.5.x, 1.4.x</dd>
