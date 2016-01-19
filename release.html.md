@@ -15,7 +15,7 @@ Features included in this release:
 * Uses external MySQL service
 * Can use an external NFS, or a built-in NFS server which can be provisioned with PCF
 * Removed requirement for a 'healthcheck' user required in betas
-* Requires stemcell 3153
+* Requires stemcell 3146.3
 
 ### 0.6.10
 **Release Date: 1st December 2015**
