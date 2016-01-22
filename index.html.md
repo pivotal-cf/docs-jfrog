@@ -55,10 +55,10 @@ The product is based upon the JFrog Artifactory Enterprise edition, so a license
 
 A trial licence for the product can be obtained [here](https://www.jfrog.com/artifactory/free-trial/)
 
-Alternatively you can upload an existing licence or [buy directly from JFrog](https://www.jfrog.com/artifactory/buy-now/)
+Alternatively, you can upload an existing licence or [buy directly from JFrog](https://www.jfrog.com/artifactory/buy-now/)
 
 ## Security
-The following ports & ranges are used in this service:
+The following ports and ranges are used in this service:
 
 * Destination port 80 access to the JFrog VMs from the PCF Router
 * Destination port 2049 for NFS access
