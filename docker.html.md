@@ -23,7 +23,7 @@ For artifactory-docker-prod, it points at: <strong>docker-prod-local</strong> v1
 
 <p class='note'><strong>Important Note</strong>: If you want to use a new docker client (greater than 1.6) to push docker v1 images for use with v1 tools such as diego or cf push, the only way to do this is to disable the virtual repository for the end point. If, for example, I want to use a new docker client to push to docker-dev-local, I should delete the docker-dev virtual repository.</p>
 
-<p class='note'><strong>Additional Note</stong>: The virtual repositories come pre-configured with a specific configuration, described below; however, you may update this configuration with any virtual repository behavior you desire, provided you do not change the name, for access to docker v2 registries. As noted above, if you want a plain v1 repository, you may wish to delete the virtual repository.</p>
+<p class='note'><strong>Additional Note</strong>: The virtual repositories come pre-configured with a specific configuration, described below; however, you may update this configuration with any virtual repository behavior you desire, provided you do not change the name, for access to docker v2 registries. As noted above, if you want a plain v1 repository, you may wish to delete the virtual repository.</p>
 
 <strong>docker-dev</strong> is configured as a virtual repository which includes the following repositories:
 
