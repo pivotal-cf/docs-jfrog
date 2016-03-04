@@ -1,5 +1,6 @@
 ---
 title: JFrog Artifactory
+owner: London Services
 ---
 
 # Docker Registry
@@ -13,7 +14,7 @@ Two URLs are registered to access to the Docker Registry:
 1. https://artifactory-docker-dev.system-domain.my-pcf.com
 1. https://aritfactory-docker-prod.system-domain.my-pcf.com
 
-At the moment these route names are not configurable. 
+At the moment these route names are not configurable.
 
 Currently each route goes to a docker-v1 repository and a virtual repository for v2.
 
@@ -28,7 +29,7 @@ For artifactory-docker-prod, it points at: <strong>docker-prod-local</strong> v1
 <strong>docker-dev</strong> is configured as a virtual repository which includes the following repositories:
 
 * <strong>docker-dev-local2</strong> (default deployment) a local repository for storing your docker images
-* <strong>docker-prod</strong> the docker virtual repository below and 
+* <strong>docker-prod</strong> the docker virtual repository below and
 * <strong>dockerhub</strong> a remote repository that points to dockerhub.
 
 <strong>docker-prod</strong> is configured as a virtual repository which includes:

@@ -1,5 +1,6 @@
 ---
 title: JFrog Artifactory
+owner: London Services
 ---
 
 ## JFrog Artifactory Configuration

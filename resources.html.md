@@ -1,5 +1,6 @@
 ---
 title: JFrog Artifactory
+owner: London Servicess
 ---
 
 # Resource requirements for JFrog Artifactory for Pivotal Cloud Foundry&reg;

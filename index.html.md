@@ -1,5 +1,6 @@
 ---
 title: JFrog Artifactory
+owner: London Services
 ---
 
 This is documentation for the [JFrog Artifactory service for Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/p-jfrog-artifactory).
@@ -51,7 +52,7 @@ To install JFrog Artifactory for Pivotal Cloud Foundry&reg;, follow the procedur
 
 ## Licensing
 
-The product is based upon the JFrog Artifactory Enterprise edition, so a license specifically for this version of the product is required. 
+The product is based upon the JFrog Artifactory Enterprise edition, so a license specifically for this version of the product is required.
 
 A trial licence for the product can be obtained [here](https://www.jfrog.com/artifactory/free-trial/)
 
