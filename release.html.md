@@ -5,6 +5,11 @@ owner: London Services
 
 Release notes for [JFrog Artifactory for Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/p-jfrog-artifactory).
 
+### 1.0.32
+**Release Date: 28th June 2016**
+* Uses JFrog Artifactory Enterprise edition 4.8.2
+* requires stemcell 3232.8
+
 ### 1.0.1
 **Release Date: 20th January 2016**
 
