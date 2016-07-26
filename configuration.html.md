@@ -13,7 +13,7 @@ The product requires an external MySQL database in order to hold its state.
 
 We recommend that you use a MySQL database that is Highly Available to remove any single points of failure from the product.
 
-We have tested using the [MySQL for Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/p-mysql) tile, as well the hosted [ClearDB](https://console.run.pivotal.io/marketplace/cleardb) offering on http://run.pivotal.io; however any MySQL compatible database should work.
+We have tested using the [MySQL for Pivotal Cloud Foundry](https://network.pivotal.io/products/p-mysql) tile, as well the hosted [ClearDB](https://console.run.pivotal.io/marketplace/cleardb) offering on http://run.pivotal.io; however any MySQL compatible database should work.
 
 The required fields to be populated are:
 

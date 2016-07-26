@@ -3,7 +3,7 @@ title: JFrog Artifactory
 owner: London Services
 ---
 
-Release notes for [JFrog Artifactory for Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/p-jfrog-artifactory).
+Release notes for [JFrog Artifactory for Pivotal Cloud Foundry](https://network.pivotal.io/products/p-jfrog-artifactory).
 
 ### 1.0.32
 **Release Date: 28th June 2016**

@@ -3,7 +3,7 @@ title: JFrog Artifactory
 owner: London Services
 ---
 
-This is documentation for the [JFrog Artifactory service for Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/p-jfrog-artifactory).
+This is documentation for the [JFrog Artifactory service for Pivotal Cloud Foundry](https://network.pivotal.io/products/p-jfrog-artifactory).
 
 ## Product snapshot
 
@@ -21,7 +21,7 @@ This is documentation for the [JFrog Artifactory service for Pivotal Cloud Found
 
 ## Upgrading to the Latest Version
 
-Consider the following compatibility information before upgrading JFrog Artifactory for [Pivotal Cloud Foundry&reg;](https://network.pivotal.io/products/pivotal-cf) (PCF).
+Consider the following compatibility information before upgrading JFrog Artifactory for [Pivotal Cloud Foundry](https://network.pivotal.io/products/pivotal-cf) (PCF).
 
 <table border="1" class="nice">
 <tr>
@@ -42,7 +42,7 @@ Consider the following compatibility information before upgrading JFrog Artifact
 
 ## Install via Pivotal Operations Manager
 
-To install JFrog Artifactory for Pivotal Cloud Foundry&reg;, follow the procedure for installing Pivotal Ops Manager tiles:
+To install JFrog Artifactory for Pivotal Cloud Foundry, follow the procedure for installing Pivotal Ops Manager tiles:
 
 1. Download the product file from [Pivotal Network](https://network.pivotal.io/products/p-jfrog-artifactory).
 1. Upload the product file to your Ops Manager installation.
@@ -66,7 +66,7 @@ The following ports and ranges are used in this service:
 
 ## Feedback
 
-Please provide any bugs, feature requests, or questions to [the Pivotal Cloud Foundry&reg; Feedback list](mailto:pivotal-cf-feedback@pivotal.io).
+Please provide any bugs, feature requests, or questions to [the Pivotal Cloud Foundry Feedback list](mailto:pivotal-cf-feedback@pivotal.io).
 
 ## Further Reading
 
