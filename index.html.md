@@ -26,7 +26,7 @@ Consider the following compatibility information before upgrading JFrog Artifact
 <table border="1" class="nice">
 <tr>
   <th>Ops Manager Version</th>
-  <th>Supported Upgrades from Imported GitLab Installation</th>
+  <th>Supported Upgrades from JFrog Artifactory Versions</th>
 </tr>
 <tr>
   <th>1.6.x, 1.5.x and 1.4.x</th>
