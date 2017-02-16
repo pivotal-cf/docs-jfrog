@@ -3,6 +3,18 @@ title: JFrog Artifactory
 owner: London Services
 ---
 
+<style>
+    .note.warning {
+        background-color: #fdd;
+        border-color: #fbb
+    }
+
+    .note.warning:before {
+        color: #f99;
+     }
+</style>
+
+<p class="note warning"><strong>WARNING</strong>: The JFrog Artifactory service is deprecated, and no further development will be made against this tile.</p>
 Release notes for [JFrog Artifactory for Pivotal Cloud Foundry](https://network.pivotal.io/products/p-jfrog-artifactory).
 
 ### 1.0.32

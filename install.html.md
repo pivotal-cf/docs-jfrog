@@ -3,6 +3,18 @@ title: JFrog Artifactory
 owner: London Services
 ---
 
+<style>
+    .note.warning {
+        background-color: #fdd;
+        border-color: #fbb
+    }
+
+    .note.warning:before {
+        color: #f99;
+     }
+</style>
+
+<p class="note warning"><strong>WARNING</strong>: The JFrog Artifactory service is deprecated, and no further development will be made against this tile.</p>
 ## Installation
 
 To install JFrog Artifactory for [Pivotal Cloud Foundry](https://network.pivotal.io/products/pivotal-cf) (PCF), follow the procedure for installing Pivotal Ops Manager tiles:
