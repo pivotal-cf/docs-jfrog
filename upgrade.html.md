@@ -14,7 +14,7 @@ owner: London Services
      }
 </style>
 
-<p class="note warning"><strong>WARNING</strong>: The JFrog Artifactory service is deprecated, and no further development will be made against this tile.</p>
+<p class="note warning"><strong>Note</strong>: The JFrog Artifactory service is deprecated, and no further development will be made against this tile.</p>
 # Upgrades
 
 This product enables a seamless upgrade experience between versions of the product that is deployed through Ops Manager.

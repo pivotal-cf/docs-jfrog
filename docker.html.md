@@ -14,7 +14,7 @@ owner: London Services
      }
 </style>
 
-<p class="note warning"><strong>WARNING</strong>: The JFrog Artifactory service is deprecated, and no further development will be made against this tile.</p>
+<p class="note warning"><strong>Note</strong>: The JFrog Artifactory service is deprecated, and no further development will be made against this tile.</p>
 # Docker Registry
 
 The JFrog Artifactory product includes a fully featured Docker Registry, supporting both v1 and v2 APIs, with built-in security and the ability to proxy to remote images.

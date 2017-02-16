@@ -14,7 +14,7 @@ owner: London Servicess
      }
 </style>
 
-<p class="note warning"><strong>WARNING</strong>: The JFrog Artifactory service is deprecated, and no further development will be made against this tile.</p>
+<p class="note warning"><strong>Note</strong>: The JFrog Artifactory service is deprecated, and no further development will be made against this tile.</p>
 
 # Resource requirements for JFrog Artifactory for Pivotal Cloud Foundry
 These are the default resource and IP requirements for installing the tile
